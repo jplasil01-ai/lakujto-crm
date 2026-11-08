@@ -1,8 +1,8 @@
 {
- "verze": "0.8.0",
- "zip": "LakujTo-CRM-0.8.0-Windows.zip",
- "sha256": "3ecf1bc86af5aab9c9b8441723b1f11c4d0051b3524f70fdee2126a46c44ab4d",
- "velikost": 35335574,
- "poznamka": "První verze s aktualizací jedním tlačítkem.",
+ "verze": "0.8.1",
+ "zip": "LakujTo-CRM-0.8.1-Windows.zip",
+ "sha256": "4793482ed2c8428b74fbe012fd4d3df99619c9c61dc8ada807b7ee6301c39429",
+ "velikost": 35335673,
+ "poznamka": "Oprava: úklid po startu už nesmaže právě stahovanou aktualizaci.",
  "datum": "2026-11-08"
 }
